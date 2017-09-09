@@ -27,16 +27,19 @@ body {
 
 }
 
-#mainPic{
+#profilePic{
 	position: relative;
 	display: flex;
 	justify-content: center;
-	align-items: center;
+	align-items: flex-end;
+
+
 }
 
 #WiP{
 	background: rgba(0,0,0,.6);
 	position: absolute;
+	top: 247px;
 	font-size: 200%;
 }
 
